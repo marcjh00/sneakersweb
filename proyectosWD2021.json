@@ -1,0 +1,89 @@
+
+
+ [
+     {
+        "id": 1,
+        "autor": "Avalible Now",
+        "titulo": "Adidas Yeezy Boost 350 V2 Black Red",
+        "srcimg": "https://stockx-360.imgix.net/adidas-Yeezy-Boost-350-V2-Core-Black-Red-2017/Images/adidas-Yeezy-Boost-350-V2-Core-Black-Red-2017/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606320792&w=1000",
+        "alt": "Texto alternativo de la imágen",
+        "texto": "RETAIL PRICE $220",
+        "url": "https://stockx.com/adidas-yeezy-boost-350-v2-core-black-red-2017"
+    },
+    {
+        "id": 2,
+        "autor": "Avalible Now",
+        "titulo": "Jordan 1 Retro High Dark Mocha",
+        "srcimg": "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-Dark-Mocha/Images/Air-Jordan-1-Retro-High-Dark-Mocha/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1608736454&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $170",
+        "url": "https://stockx.com/air-jordan-1-retro-high-dark-mocha"
+    },
+    {
+        "id": 3,
+        "autor": "Avalible Now",
+        "titulo": "Nike Dunk High Varsity Maize",
+        "srcimg": "https://stockx-360.imgix.net/Nike-Dunk-High-Black-Varsity-Maize/Images/Nike-Dunk-High-Black-Varsity-Maize/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1609445259&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $120",
+        "url": "https://stockx.com/nike-dunk-high-black-varsity-maize"
+    },
+    {
+        "id": 4,
+        "autor": "Avalible Now",
+        "titulo": "Jordan 1 Retro High Satin Snake Chicago (W)",
+        "srcimg": "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-Satin-Snake-Chicago-W/Images/Air-Jordan-1-Retro-High-Satin-Snake-Chicago-W/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606325457&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $170",
+        "url": "https://stockx.com/air-jordan-1-retro-high-satin-snake-chicago-w"
+    },
+    {
+        "id": 5,
+        "autor": "Avalible Now",
+        "titulo": "Jordan 1 Retro High Shattered Backboard 3.0",
+        "srcimg": "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-Shattered-Backboard-3/Images/Air-Jordan-1-Retro-High-Shattered-Backboard-3/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606318718&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $160",
+        "url": "https://stockx.com/air-jordan-1-retro-high-shattered-backboard-3"
+    },
+    {
+        "id": 6,
+        "autor": "Avalible Now",
+        "titulo": "Jordan 11 Retro Playoffs Bred",
+        "srcimg": "https://stockx-360.imgix.net/Air-Jordan-11-Retro-Playoffs-2019/Images/Air-Jordan-11-Retro-Playoffs-2019/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606320266&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $220",
+        "url": "https://stockx.com/air-jordan-11-retro-playoffs-2019"
+    }
+    ,
+    {
+        "id": 7,
+        "autor": "Avalible Now",
+        "titulo": "Jordan 4 Retro Bred Men 2019",
+        "srcimg": "https://stockx-360.imgix.net/Air-Jordan-4-Retro-Bred-2019/Images/Air-Jordan-4-Retro-Bred-2019/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606316608&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $200",
+        "url": "https://stockx.com/air-jordan-4-retro-bred-2019"
+    }
+    ,
+    {
+        "id": 8,
+        "autor": "Avalible Now",
+        "titulo": "Nike Air Rubber Dunk Off-White UNC",
+        "srcimg": "https://stockx-360.imgix.net/Nike-Air-Rubber-Dunk-Off-White-UNC/Images/Nike-Air-Rubber-Dunk-Off-White-UNC/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1609438911&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $190",
+        "url": "https://stockx.com/nike-air-rubber-dunk-off-white-unc"
+    }
+    ,
+    {
+        "id": 9,
+        "autor": "Avalible Now",
+        "titulo": "Jordan 1 Retro High Obsidian UNC",
+        "srcimg": "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-UNC-Leather/Images/Air-Jordan-1-Retro-High-UNC-Leather/Lv2/img01.jpg?auto=format,compress&q=90&updated_at=1606322077&w=1000",
+        "alt": "Descripción de la imágen",
+        "texto": "RETAIL PRICE $160",
+        "url": "https://stockx.com/air-jordan-1-retro-high-unc-leather"
+    }
+
+]
